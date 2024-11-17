@@ -1,0 +1,3 @@
+# Artificial bee colony algorithm
+
+[Paper](https://www.researchgate.net/publication/221498082_Artificial_Bee_Colony_ABC_Optimization_Algorithm_for_Solving_Constrained_Optimization_Problems)
