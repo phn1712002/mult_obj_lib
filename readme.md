@@ -1,6 +1,6 @@
 # Các thuật toán tối ưu hóa đa mục tiêu - Multi-objective optimization
 
-### Nội dung: 
+## Nội dung: 
 1. Đây là mã nguồn cho các thuật toán tối ưu hóa đa mục tiêu theo phương pháp bầy đàn.
 
 2. Nội dung được sử dụng bởi các source code của các tác giả khác nhau viết trên tối ưu hóa đơn mục tiêu [Single-objective optimization] và được điều chỉnh thành tối ưu hóa đa mục tiêu [Multi-objective optimization].
